@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\c#\For-orneklerı\For-orneklerı\bin\Debug\For-orneklerı.exe.config
+C:\Users\karab\OneDrive\Masaüstü\c#\For-orneklerı\For-orneklerı\bin\Debug\For-orneklerı.exe
+C:\Users\karab\OneDrive\Masaüstü\c#\For-orneklerı\For-orneklerı\bin\Debug\For-orneklerı.pdb
+C:\Users\karab\OneDrive\Masaüstü\c#\For-orneklerı\For-orneklerı\obj\Debug\For-orneklerı.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\c#\For-orneklerı\For-orneklerı\obj\Debug\For-orneklerı.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\c#\For-orneklerı\For-orneklerı\obj\Debug\For-orneklerı.exe
+C:\Users\karab\OneDrive\Masaüstü\c#\For-orneklerı\For-orneklerı\obj\Debug\For-orneklerı.pdb
